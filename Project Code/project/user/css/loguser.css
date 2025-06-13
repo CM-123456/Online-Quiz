@@ -1,0 +1,59 @@
+
+.profile_details {
+    float: right;
+    margin-left: 1em;
+}
+.profile_details ul li {
+    list-style-type: none;
+    position: relative;
+}
+.profile_details_drop a.dropdown-toggle {
+    display: block;
+}
+.profile_img span.prfil-img {
+    float: left;
+}
+.profile_details ul li ul.dropdown-menu.drp-mnu {
+    padding: 1em;
+    min-width: 135px !important;
+    top: 122%;
+    left: -90px;
+}
+span.prfil-img i.fa.fa-user {
+    color: #ffffff;
+    background: #00bcd4;
+    height: 41px;
+    width: 41px;
+    padding: .7em 0 0 0;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+ul.dropdown-menu.drp-mnu li {
+    list-style-type: none;
+    padding: 3px 0;
+}
+.dropdown-menu > li > a {
+    padding: 3px 15px;
+    font-size: 1em;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background: none !important;
+    color: #67D3E0 !important;
+}
+.agile-grid {
+    width: 50%;
+    float: left;
+}
+.grid {
+	border: solid 10px #d8d8d8;
+    margin-bottom: 2em;
+    background: #FFFFFF;
+}
+.grid-info {
+    background: #fff;
+    padding: 1em;
+}
