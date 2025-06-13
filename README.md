@@ -17,8 +17,8 @@ The **Online Quiz System** is designed to replace manual quiz systems with a dig
 
 ## 👨‍💻 Developed By
 
-- **Meet Chavda** - 206200316065  
-- **Nishit Davda** - 206200316095   
+- **Meet Chavda** - uddy117@gmail.com  
+- **Nishit Davda** -    
 
 **Institute:** Government Polytechnic, Rajkot  
 **Session:** July 2021-22  
